@@ -10,7 +10,7 @@ html,body{
 .id{
     height: 100%;
     width: 100%;
-    background-image: url(bh-img.jpg);
+    background-image: url(bh-img.webp);
     background-size: cover;
     object-fit: cover;
     
